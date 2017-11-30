@@ -19,7 +19,7 @@ public class BindTasksToVm {
         vmware.setRunning(true);//虚拟机设置为正在运行状态
         task.setRunning(true);//设置任务正在运行
         vmware.addClock(task.getFinishTime());
-        vmware.orderClock();//排序一下取得最小的运行时间
+        vmware.orderClock();//排序一下取得最da的运行时间
 
         //EVIM= CalculatePower.getCalculatePower(task);//计算能耗
 

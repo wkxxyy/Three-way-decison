@@ -2,13 +2,12 @@ package com.hrbnu.cloudsim;
 
 import java.io.Serializable;
 import java.util.ArrayList;
-import java.util.Date;
 import java.util.List;
 
 public class Vmware implements Serializable {
 
     private static List<Integer> clock=new ArrayList<>();//任务完成时间列表
-    private int minClock=0;//当前最下的任务完成时间
+    private int maxClock =0;//当前最da的任务完成时间
     private int id;
     private int totalUtilization=100;//总利用率
     private int usedUtilization=0;//已使用利用率
@@ -76,19 +75,20 @@ public class Vmware implements Serializable {
         this.clock.add(clock);
     }
 
-    public int getMinClock() {
-        return minClock;
+    public int getMaxClock() {
+        orderClock();
+        return maxClock;
     }
 
-    public void setMinClock(int minClock) {
-        this.minClock = minClock;
+    public void setMaxClock(int maxClock) {
+        this.maxClock = maxClock;
     }
 
-    public  void orderClock(){//排序集合中最小的完成时间
-        minClock=clock.get(0);
+    public  void orderClock(){//排序集合中最da的完成时间
+        maxClock =clock.get(0);
         for(int i=0;i<clock.size();i++){
-            if (minClock>clock.get(i)){
-                minClock=clock.get(i);
+            if (maxClock <clock.get(i)){
+                maxClock =clock.get(i);
             }
         }
     }

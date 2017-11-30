@@ -14,6 +14,7 @@ public class Task implements Comparable<Task>,Serializable {
     private int needUtilization;//需要的利用率
     private double fitness;//健康度
     private int burstTime;
+    private int deadLine;
 
     private boolean isRunning=false;//任务是否在运行的标识
     private boolean isFinish=false;//任务是否完成的标识
@@ -98,6 +99,14 @@ public class Task implements Comparable<Task>,Serializable {
 
     public void setBurstTime(int burstTime) {
         this.burstTime = burstTime;
+    }
+
+    public int getDeadLine() {
+        return deadLine;
+    }
+
+    public void setDeadLine(int deadLine) {
+        this.deadLine = deadLine;
     }
 
     /*

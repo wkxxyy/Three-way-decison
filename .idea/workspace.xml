@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34016ad9-0d3f-470b-8980-6cfb9280bb62" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/libs/jxl-2.6.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/jxl_2_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/hrbnu/cloudsim/util/OutPutFile.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SecondHomeWork/com/hrbnu/cloudsim/BindTasksToVm.class" afterPath="$PROJECT_DIR$/out/production/SecondHomeWork/com/hrbnu/cloudsim/BindTasksToVm.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SecondHomeWork/com/hrbnu/cloudsim/Start$1.class" afterPath="$PROJECT_DIR$/out/production/SecondHomeWork/com/hrbnu/cloudsim/Start$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SecondHomeWork/com/hrbnu/cloudsim/Start.class" afterPath="$PROJECT_DIR$/out/production/SecondHomeWork/com/hrbnu/cloudsim/Start.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SecondHomeWork/com/hrbnu/cloudsim/Task.class" afterPath="$PROJECT_DIR$/out/production/SecondHomeWork/com/hrbnu/cloudsim/Task.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SecondHomeWork/com/hrbnu/cloudsim/util/CalculatePower.class" afterPath="$PROJECT_DIR$/out/production/SecondHomeWork/com/hrbnu/cloudsim/util/CalculatePower.class" />
+    <list default="true" id="1fe2f585-f427-4b6b-949d-840c6d2e1dcc" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/jxl_2_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/jxl_2_6.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/jxl_2_61.xml" afterPath="$PROJECT_DIR$/.idea/libraries/jxl_2_61.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SecondHomeWork.iml" afterPath="$PROJECT_DIR$/SecondHomeWork.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hrbnu/cloudsim/BindTasksToVm.java" afterPath="$PROJECT_DIR$/src/com/hrbnu/cloudsim/BindTasksToVm.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hrbnu/cloudsim/Start.java" afterPath="$PROJECT_DIR$/src/com/hrbnu/cloudsim/Start.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hrbnu/cloudsim/Task.java" afterPath="$PROJECT_DIR$/src/com/hrbnu/cloudsim/Task.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hrbnu/cloudsim/Vmware.java" afterPath="$PROJECT_DIR$/src/com/hrbnu/cloudsim/Vmware.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hrbnu/cloudsim/util/CalculatePower.java" afterPath="$PROJECT_DIR$/src/com/hrbnu/cloudsim/util/CalculatePower.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,18 +24,27 @@
       <file leaf-file-name="Start.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/hrbnu/cloudsim/Start.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="180" column="43" lean-forward="false" selection-start-line="180" selection-start-column="43" selection-end-line="180" selection-end-column="43" />
+            <state relative-caret-position="581">
+              <caret line="195" column="0" lean-forward="true" selection-start-line="195" selection-start-column="0" selection-end-line="195" selection-end-column="0" />
               <folding>
-                <element signature="e#346#352#0" expanded="true" />
-                <element signature="e#412#420#0" expanded="true" />
-                <element signature="e#517#523#0" expanded="true" />
+                <element signature="e#241#247#0" expanded="true" />
+                <element signature="e#309#317#0" expanded="true" />
+                <element signature="e#418#424#0" expanded="true" />
+                <element signature="method#startDispatchWithESTC#0;class#Start#0" expanded="false" />
                 <element signature="method#startDispatchWithESTCwithMQS#0;class#Start#0" expanded="false" />
                 <element signature="method#startDispatchWithETCWithMQS#0;class#Start#0" expanded="false" />
-                <element signature="e#13787#13827#0" expanded="false" />
-                <element signature="e#15035#15052#0" expanded="false" />
-                <marker date="1511954821028" expanded="false" signature="2339:2345" ph="&lt;~&gt;" />
+                <element signature="e#19147#19148#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CalculatePower.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/hrbnu/cloudsim/util/CalculatePower.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="581">
+              <caret line="162" column="0" lean-forward="true" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -52,8 +52,8 @@
       <file leaf-file-name="BindTasksToVm.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/hrbnu/cloudsim/BindTasksToVm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-168">
-              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="323">
+              <caret line="21" column="39" lean-forward="false" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -62,17 +62,11 @@
       <file leaf-file-name="Vmware.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/hrbnu/cloudsim/Vmware.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="56" column="5" lean-forward="false" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+            <state relative-caret-position="411">
+              <caret line="86" column="40" lean-forward="false" selection-start-line="86" selection-start-column="40" selection-end-line="86" selection-end-column="40" />
               <folding>
-                <element signature="e#683#684#0" expanded="true" />
-                <element signature="e#709#710#0" expanded="true" />
-                <element signature="e#1761#1762#0" expanded="true" />
-                <element signature="e#1798#1799#0" expanded="true" />
-                <element signature="e#1830#1831#0" expanded="true" />
-                <element signature="e#1861#1862#0" expanded="true" />
-                <element signature="e#1906#1907#0" expanded="true" />
-                <element signature="e#1946#1947#0" expanded="true" />
+                <element signature="e#1071#1072#0" expanded="true" />
+                <element signature="e#1125#1126#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -81,9 +75,13 @@
       <file leaf-file-name="Task.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/hrbnu/cloudsim/Task.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="-82">
+              <caret line="103" column="28" lean-forward="false" selection-start-line="103" selection-start-column="28" selection-end-line="103" selection-end-column="28" />
+              <folding>
+                <element signature="e#2210#2211#0" expanded="true" />
+                <element signature="e#2241#2242#0" expanded="true" />
+                <element signature="method#compareTo#0;class#Task#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -101,6 +99,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/com/hrbnu/cloudsim/Task.java" />
+        <option value="$PROJECT_DIR$/src/com/hrbnu/cloudsim/BindTasksToVm.java" />
+        <option value="$PROJECT_DIR$/src/com/hrbnu/cloudsim/Vmware.java" />
         <option value="$PROJECT_DIR$/src/com/hrbnu/cloudsim/Start.java" />
       </list>
     </option>
@@ -111,10 +112,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-7" />
-    <option name="width" value="974" />
-    <option name="height" value="1057" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1336" />
+    <option name="height" value="672" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -131,38 +133,45 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="SecondHomeWorkThird" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SecondHomeWorkThird" type="462c0819:PsiDirectoryNode" />
+              <item name="Three-way-decison" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Three-way-decison" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SecondHomeWorkThird" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SecondHomeWorkThird" type="462c0819:PsiDirectoryNode" />
+              <item name="Three-way-decison" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Three-way-decison" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SecondHomeWorkThird" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SecondHomeWorkThird" type="462c0819:PsiDirectoryNode" />
+              <item name="Three-way-decison" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Three-way-decison" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="cloudsim" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Three-way-decison" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Three-way-decison" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cloudsim" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -178,6 +187,7 @@
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -263,21 +273,25 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="34016ad9-0d3f-470b-8980-6cfb9280bb62" name="Default" comment="" />
-      <created>1511864445054</created>
+      <changelist id="1fe2f585-f427-4b6b-949d-840c6d2e1dcc" name="Default" comment="" />
+      <created>1511966676623</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1511864445054</updated>
-      <workItem from="1511864446440" duration="1755000" />
-      <workItem from="1511953749338" duration="1650000" />
+      <updated>1511966676623</updated>
+      <workItem from="1511966678315" duration="195000" />
+      <workItem from="1511966912721" duration="136000" />
+      <workItem from="1511967087235" duration="54000" />
+      <workItem from="1512000855379" duration="129000" />
+      <workItem from="1512001006449" duration="3319000" />
+      <workItem from="1512007113107" duration="3439000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3405000" />
+    <option name="totallyTimeSpent" value="7272000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
+    <frame x="10" y="20" width="1366" height="768" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -292,7 +306,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18960468" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -316,7 +330,14 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hrbnu/cloudsim/Vmware.java</url>
+          <line>42</line>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -326,97 +347,163 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#346#352#0" expanded="true" />
-            <element signature="e#412#420#0" expanded="true" />
-            <element signature="e#517#523#0" expanded="true" />
+            <element signature="e#241#247#0" expanded="true" />
+            <element signature="e#309#317#0" expanded="true" />
+            <element signature="e#418#424#0" expanded="true" />
+            <element signature="method#startDispatchWithESTC#0;class#Start#0" expanded="false" />
             <element signature="method#startDispatchWithESTCwithMQS#0;class#Start#0" expanded="false" />
             <element signature="method#startDispatchWithETCWithMQS#0;class#Start#0" expanded="false" />
-            <element signature="e#13787#13827#0" expanded="false" />
-            <element signature="e#15035#15052#0" expanded="false" />
-            <marker date="1511954821028" expanded="false" signature="2339:2345" ph="&lt;~&gt;" />
+            <element signature="e#19147#19148#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/hrbnu/cloudsim/BindTasksToVm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+        <state relative-caret-position="323">
+          <caret line="21" column="39" lean-forward="false" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/hrbnu/cloudsim/Vmware.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="56" column="5" lean-forward="true" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+        <state relative-caret-position="867">
+          <caret line="85" column="26" lean-forward="false" selection-start-line="85" selection-start-column="26" selection-end-line="85" selection-end-column="26" />
           <folding>
-            <element signature="e#683#684#0" expanded="true" />
-            <element signature="e#709#710#0" expanded="true" />
-            <element signature="e#1761#1762#0" expanded="true" />
-            <element signature="e#1798#1799#0" expanded="true" />
-            <element signature="e#1830#1831#0" expanded="true" />
-            <element signature="e#1861#1862#0" expanded="true" />
-            <element signature="e#1906#1907#0" expanded="true" />
-            <element signature="e#1946#1947#0" expanded="true" />
+            <element signature="e#1071#1072#0" expanded="true" />
+            <element signature="e#1125#1126#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/hrbnu/cloudsim/Task.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hrbnu/cloudsim/Task.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hrbnu/cloudsim/Vmware.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="56" column="5" lean-forward="false" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+        <state relative-caret-position="1105">
+          <caret line="103" column="28" lean-forward="false" selection-start-line="103" selection-start-column="28" selection-end-line="103" selection-end-column="28" />
           <folding>
-            <element signature="e#683#684#0" expanded="true" />
-            <element signature="e#709#710#0" expanded="true" />
-            <element signature="e#1761#1762#0" expanded="true" />
-            <element signature="e#1798#1799#0" expanded="true" />
-            <element signature="e#1830#1831#0" expanded="true" />
-            <element signature="e#1861#1862#0" expanded="true" />
-            <element signature="e#1906#1907#0" expanded="true" />
-            <element signature="e#1946#1947#0" expanded="true" />
+            <element signature="e#2210#2211#0" expanded="true" />
+            <element signature="e#2241#2242#0" expanded="true" />
+            <element signature="method#compareTo#0;class#Task#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hrbnu/cloudsim/BindTasksToVm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-168">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/hrbnu/cloudsim/Start.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="180" column="43" lean-forward="false" selection-start-line="180" selection-start-column="43" selection-end-line="180" selection-end-column="43" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#346#352#0" expanded="true" />
-            <element signature="e#412#420#0" expanded="true" />
-            <element signature="e#517#523#0" expanded="true" />
+            <element signature="e#241#247#0" expanded="true" />
+            <element signature="e#309#317#0" expanded="true" />
+            <element signature="e#418#424#0" expanded="true" />
+            <element signature="method#startDispatchWithESTC#0;class#Start#0" expanded="false" />
             <element signature="method#startDispatchWithESTCwithMQS#0;class#Start#0" expanded="false" />
             <element signature="method#startDispatchWithETCWithMQS#0;class#Start#0" expanded="false" />
-            <element signature="e#13787#13827#0" expanded="false" />
-            <element signature="e#15035#15052#0" expanded="false" />
-            <marker date="1511954821028" expanded="false" signature="2339:2345" ph="&lt;~&gt;" />
+            <element signature="e#19147#19148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hrbnu/cloudsim/Start.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#241#247#0" expanded="true" />
+            <element signature="e#309#317#0" expanded="true" />
+            <element signature="e#418#424#0" expanded="true" />
+            <element signature="method#startDispatchWithESTC#0;class#Start#0" expanded="false" />
+            <element signature="method#startDispatchWithESTCwithMQS#0;class#Start#0" expanded="false" />
+            <element signature="method#startDispatchWithETCWithMQS#0;class#Start#0" expanded="false" />
+            <element signature="e#19147#19148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hrbnu/cloudsim/Start.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#241#247#0" expanded="true" />
+            <element signature="e#309#317#0" expanded="true" />
+            <element signature="e#418#424#0" expanded="true" />
+            <element signature="method#startDispatchWithESTC#0;class#Start#0" expanded="false" />
+            <element signature="method#startDispatchWithESTCwithMQS#0;class#Start#0" expanded="false" />
+            <element signature="method#startDispatchWithETCWithMQS#0;class#Start#0" expanded="false" />
+            <element signature="e#19147#19148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hrbnu/cloudsim/Start.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#241#247#0" expanded="true" />
+            <element signature="e#309#317#0" expanded="true" />
+            <element signature="e#418#424#0" expanded="true" />
+            <element signature="method#startDispatchWithESTC#0;class#Start#0" expanded="false" />
+            <element signature="method#startDispatchWithESTCwithMQS#0;class#Start#0" expanded="false" />
+            <element signature="method#startDispatchWithETCWithMQS#0;class#Start#0" expanded="false" />
+            <element signature="e#19147#19148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hrbnu/cloudsim/BindTasksToVm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="39" lean-forward="false" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hrbnu/cloudsim/Vmware.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="86" column="40" lean-forward="false" selection-start-line="86" selection-start-column="40" selection-end-line="86" selection-end-column="40" />
+          <folding>
+            <element signature="e#1071#1072#0" expanded="true" />
+            <element signature="e#1125#1126#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hrbnu/cloudsim/util/CalculatePower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="581">
+          <caret line="162" column="0" lean-forward="true" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hrbnu/cloudsim/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-82">
+          <caret line="103" column="28" lean-forward="false" selection-start-line="103" selection-start-column="28" selection-end-line="103" selection-end-column="28" />
+          <folding>
+            <element signature="e#2210#2211#0" expanded="true" />
+            <element signature="e#2241#2242#0" expanded="true" />
+            <element signature="method#compareTo#0;class#Task#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hrbnu/cloudsim/Start.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="581">
+          <caret line="195" column="0" lean-forward="true" selection-start-line="195" selection-start-column="0" selection-end-line="195" selection-end-column="0" />
+          <folding>
+            <element signature="e#241#247#0" expanded="true" />
+            <element signature="e#309#317#0" expanded="true" />
+            <element signature="e#418#424#0" expanded="true" />
+            <element signature="method#startDispatchWithESTC#0;class#Start#0" expanded="false" />
+            <element signature="method#startDispatchWithESTCwithMQS#0;class#Start#0" expanded="false" />
+            <element signature="method#startDispatchWithETCWithMQS#0;class#Start#0" expanded="false" />
+            <element signature="e#19147#19148#0" expanded="true" />
           </folding>
         </state>
       </provider>
